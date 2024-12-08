@@ -4,6 +4,6 @@
   <img  align="bottom"  width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shorno&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img  align="center"  width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrShorno&layout=compact" />
+  <img  align="bottom"  width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrShorno&layout=compact" />
 </a>
 
