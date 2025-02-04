@@ -1,8 +1,6 @@
 <!-- Banner Image -->
 <img width="100%" height="auto" src="https://raw.githubusercontent.com/Shorno/Shorno/main/assets/banner.png" alt="cover" />
 
-<div align="center">
-
 # 👋 Hi, I'm [Your Name]
 ### Full Stack Developer
 
@@ -10,10 +8,10 @@
 Passionate Full Stack Developer with a keen interest in building scalable web applications and exploring new technologies. I combine creative problem-solving with technical expertise to create efficient, user-friendly solutions. Currently focused on modern web technologies and cloud architecture.
 
 ## 🚀 Current Activities
-  🔭 I'm currently working on a tourism website using MERN stack
-  🌱 I'm exploring Next.js and TypeScript
-  👯 Looking to collaborate on open-source projects
-  💬 Open for exciting opportunities in web development
+- 🔭 I'm currently working on a tourism website using MERN stack
+- 🌱 I'm exploring Next.js and TypeScript
+- 👯 Looking to collaborate on open-source projects
+- 💬 Open for exciting opportunities in web development
 
 ## 🛠️ Skills
 
@@ -49,11 +47,10 @@ Passionate Full Stack Developer with a keen interest in building scalable web ap
 ## 📊 GitHub Stats
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shorno&show_icons=true&theme=radical" alt="github stats" width="420"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shorno&layout=compact&theme=radical" alt="top languages" width="350" />
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats-flax-omega.vercel.app?user=Shorno&theme=dark" alt="GitHub Streak" />
 </p>
-
-</div>
