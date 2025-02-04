@@ -10,10 +10,10 @@
 Passionate Full Stack Developer with a keen interest in building scalable web applications and exploring new technologies. I combine creative problem-solving with technical expertise to create efficient, user-friendly solutions. Currently focused on modern web technologies and cloud architecture.
 
 ## 🚀 Current Activities
-- 🔭 I'm currently working on a tourism website using MERN stack
-- 🌱 I'm exploring Next.js and TypeScript
-- 👯 Looking to collaborate on open-source projects
-- 💬 Open for exciting opportunities in web development
+  🔭 I'm currently working on a tourism website using MERN stack
+  🌱 I'm exploring Next.js and TypeScript
+  👯 Looking to collaborate on open-source projects
+  💬 Open for exciting opportunities in web development
 
 ## 🛠️ Skills
 
