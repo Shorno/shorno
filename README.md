@@ -1,54 +1,56 @@
 <!-- Banner Image -->
-![Banner Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Profile)  
-<!-- Replace the URL above with your preferred banner image -->
+<img width="100%" height="auto" src="https://raw.githubusercontent.com/Shorno/Shorno/main/assets/banner.png" alt="cover" />
 
-# Shorno - Full Stack Developer  
-*Working from home • Dhaka, Bangladesh*
+# 👋 Hi, I'm [Your Name]
+### Full Stack Developer
 
----
+## 👨‍💻 About Me
+Passionate Full Stack Developer with a keen interest in building scalable web applications and exploring new technologies. I combine creative problem-solving with technical expertise to create efficient, user-friendly solutions. Currently focused on modern web technologies and cloud architecture.
 
-## About Me
-Hi there, I'm **Shorno**. I'm a passionate Full Stack Developer who loves building intuitive and responsive web applications. I thrive on solving challenging problems and continually exploring new technologies to enhance my skills. When I'm not coding, I enjoy learning and experimenting with modern web frameworks.  
-*(Inspired by my journey shared on my [GitHub profile](https://github.com/Shorno) :contentReference[oaicite:1]{index=1})*
+## 🚀 Current Activities
+- 🔭 I'm currently working on a tourism website using MERN stack
+- 🌱 I'm exploring Next.js and TypeScript
+- 👯 Looking to collaborate on open-source projects
+- 💬 Open for exciting opportunities in web development
 
----
+## 🛠️ Skills
 
-## Current Activities
-- 🔍 Exploring **Next.js** for scalable web app development.
-- 💻 Working on a dynamic **tourism website** project.
-- 🛠️ Experimenting with full stack solutions using **TypeScript** and **Django**.
+### Frontend Development
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+</p>
 
----
+### Backend Development
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+</p>
 
-## Skills
+### Tools & Technologies
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+</p>
 
-### Frontend
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+## 🔗 Connect with me
+<p>
+<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://twitter.com/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+</p>
 
-### Backend
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+## 📊 GitHub Stats
 
-### Tools & Others
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shorno&show_icons=true&theme=radical" alt="github stats" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shorno&layout=compact&theme=radical" alt="top languages" width="350" />
+</p>
 
----
-
-## Social Links
-- [GitHub](https://github.com/Shorno)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin) *(Replace with your actual URL)*
-- [Twitter](https://twitter.com/yourhandle) *(Replace with your actual URL)*
-
-*Note: Only professional and relevant social links are included.*
-
----
-
-## GitHub Stats
-<!-- These cards automatically update with your latest stats -->
-![Shorno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shorno&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shorno&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shorno&theme=radical)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shorno&theme=radical" alt="streak stats"/>
+</p>
