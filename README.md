@@ -50,4 +50,4 @@ Passionate Full Stack Developer with a keen interest in building scalable web ap
 <img src="https://github-readme-stats.vercel.app/api?username=Shorno&show_icons=true&theme=radical" alt="github stats" width="420"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shorno&layout=compact&theme=radical" alt="top languages" width="350" />
 </p>
-[![GitHub Streak](https://github-readme-streak-stats-flax-omega.vercel.app?user=Shorno&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-flax-omega.vercel.app?user=Shorno)](https://git.io/streak-stats)
