@@ -50,7 +50,7 @@ Passionate Full Stack Developer with a keen interest in building scalable web ap
   <a href="https://www.facebook.com/MrShorno911" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="discordapp.com/users/427890656363675648" target="_blank">
+  <a href="https://www.discordapp.com/users/427890656363675648" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/shorno/" target="_blank">
